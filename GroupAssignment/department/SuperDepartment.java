@@ -2,19 +2,19 @@ package com.group.department;
 
 public class SuperDepartment {
 	public String departmentName() {
-		return ("Super Department");
+		return ("Super Department.");
 	}
 	
 	public String getTodaysWork() {
-		return ("No Work as of now");
+		return ("No Work as of now.");
 	}
 	
 	public String getWorkDeadline() {
-		return ("Nil");
+		return ("Nil.");
 	}
 	
 	public String isTodayAHoliday() {
-		return ("Today is not a holiday");
+		return ("Today is not a holiday.");
 	}
 
 }
