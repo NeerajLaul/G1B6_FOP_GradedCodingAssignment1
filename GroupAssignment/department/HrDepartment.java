@@ -2,19 +2,19 @@ package com.group.department;
 
 public class HrDepartment extends SuperDepartment{
 	public String departmentName() {
-		return ("HR Department");
+		return ("HR Department.");
 	}
 	
 	public String getTodaysWork() {
-		return ("Fill today's timesheet and mark your attendance");
+		return ("Fill today's timesheet and mark your attendance.");
 	}
 	
 	public String getWorkDeadline() {
-		return ("Complete By EOD");
+		return ("Complete By EOD.");
 	}
 	
 	public String doActivity() {
-		return ("Team Lunch");
+		return ("Team Lunch.");
 	}
 
 }
